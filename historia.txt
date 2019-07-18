@@ -1,6 +1,7 @@
 Esta es la historia de Rodrigo Goitia.
 
 Un chico de 21 años que se encuentra pasando
-un curso de Platzi de Git y GitHub. Él vive en La Paz, Bolivia.
+un curso de Platzi de Git y GitHub.
 
-Veamos la historia de su vida y obra maestra.
+Veamos su historia.
+Mañana veremos que hace los viernes.

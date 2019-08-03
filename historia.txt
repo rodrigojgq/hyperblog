@@ -5,6 +5,8 @@ un curso de Platzi de Git y GitHub.
 
 Veamos su historia.
 
+Experimento 1
+
 Master 1
 
 Master 2
